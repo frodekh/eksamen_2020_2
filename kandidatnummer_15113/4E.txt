@@ -1,0 +1,1 @@
+Massen til gassklumpene er 10300000.00 kg.Hastigheten til G1 i x-retning er 25200.00 km/s.Hastigheten til G2 i x-retning er 30960.00 km/s.
